@@ -85,3 +85,13 @@ public static class PaginationModel
         }
     }
 ```
+## Experience
+I dont have experience as a Junior developer, but i practiced my skills by coding pet projects.
+
+## Education
+At the moment I am studying in lyceum, 11 form. Learned programming by `Skillbox`'s courses, by self education and books.
+## English
+I dont have much English practice. Usually i train English with my mentor. Also i like to watch films with English subtitles and voice.
+
+### Thats end of my CV
+
